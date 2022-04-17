@@ -1,4 +1,4 @@
-for the psot request :
+for the post request :
 enter the url :- http://localhost:3000/reports/create
 
 for the get request enter the url :-
